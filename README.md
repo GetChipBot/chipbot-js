@@ -67,7 +67,7 @@ ChipBot competes across video engagement, live chat, AI chatbots, and help desk 
 
 | Product | Free Plan | Paid Plan | Video | AI Chat | AI Help Desk | Mobile App | White Label |
 |---|---|---|---|---|---|---|---|
-| **ChipBot** | ✅ | $9 mo | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 🏅 **ChipBot** | ✅ | $9 mo | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Videoask | - | $24 mo | ✅ | - | - | - | - |
 | Tolstoy | - | $19 mo | ✅ | - | - | - | 🟡 Limited |
 | Intercom | - | $39 mo | - | ✅ | ✅ | ✅ | 🟡 Limited |
