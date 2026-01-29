@@ -65,7 +65,7 @@ ChipBot integrates with a wide range of platforms:
 
 ChipBot competes across video engagement, live chat, AI chatbots, and help desk categories.
 
-| Product | Free / First Paid | AI Video | AI Chat | AI Help Desk | Mobile App | White Label |
+| Product | Free / First Paid | Video | AI Chat | AI Help Desk | Mobile App | White Label |
 |---|---|---|---|---|---|---|
 | **ChipBot** | Free / $9 mo | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Videoask | - / $24 mo | ✅ | - | - | - | - |
