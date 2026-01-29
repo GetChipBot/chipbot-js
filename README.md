@@ -65,26 +65,26 @@ ChipBot integrates with a wide range of platforms:
 
 ChipBot competes across video engagement, live chat, AI chatbots, and help desk categories.
 
-| Product | Free / First Paid | Video | AI Chat | AI Help Desk | Mobile App | White Label |
-|---|---|---|---|---|---|---|
-| **ChipBot** | Free / $9 mo | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Videoask | - / $24 mo | ✅ | - | - | - | - |
-| Tolstoy | - / $19 mo | ✅ | - | - | - | - |
-| Intercom | - / $39 mo | - | ✅ | ✅ | ✅ | - |
-| Drift | - / $50 mo | - | ✅ | - | ✅ | - |
-| Crisp | Free / $25 mo | - | ✅ | ✅ | ✅ | - |
-| LiveChat | - / $20 mo | - | ✅ | - | ✅ | - |
-| Zendesk | - / $19 mo | - | ✅ | ✅ | ✅ | - |
-| Tawk.to | Free / $19 mo | - | ✅ | ✅ | ✅ | - |
-| Olark | - / $29 mo | - | ✅ | - | - | - |
-| Freshchat | Free / $15 mo | - | ✅ | - | ✅ | - |
-| Tidio | Free / $29 mo | - | ✅ | - | ✅ | - |
-| Landbot | - / $40 mo | - | ✅ | - | - | - |
-| Kommunicate | - / $40 mo | - | ✅ | ✅ | ✅ | - |
-| Freshdesk | Free / $15 mo | - | - | ✅ | ✅ | - |
-| Help Scout | - / $20 mo | - | - | ✅ | ✅ | - |
-| HubSpot Service Hub | Free / $45 mo | - | ✅ | ✅ | ✅ | - |
-| Gorgias | - / $10 mo | - | ✅ | ✅ | ✅ | - |
-| Re:amaze | - / $29 mo | - | ✅ | ✅ | ✅ | - |
+| Product | Free Plan | Paid Plan | Video | AI Chat | AI Help Desk | Mobile App | White Label |
+|---|---|---|---|---|---|---|---|
+| **ChipBot** | ✅ | $9 mo | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Videoask | - | $24 mo | ✅ | - | - | - | - |
+| Tolstoy | - | $19 mo | ✅ | - | - | - | - |
+| Intercom | - | $39 mo | - | ✅ | ✅ | ✅ | - |
+| Drift | - | $50 mo | - | ✅ | - | ✅ | - |
+| Crisp | ✅ | $25 mo | - | ✅ | ✅ | ✅ | - |
+| LiveChat | - | $20 mo | - | ✅ | - | ✅ | - |
+| Zendesk | - | $19 mo | - | ✅ | ✅ | ✅ | - |
+| Tawk.to | ✅ | $19 mo | - | ✅ | ✅ | ✅ | - |
+| Olark | - | $29 mo | - | ✅ | - | - | - |
+| Freshchat | ✅ | $15 mo | - | ✅ | - | ✅ | - |
+| Tidio | ✅ | $29 mo | - | ✅ | - | ✅ | - |
+| Landbot | - | $40 mo | - | ✅ | - | - | - |
+| Kommunicate | - | $40 mo | - | ✅ | ✅ | ✅ | - |
+| Freshdesk | ✅ | $15 mo | - | - | ✅ | ✅ | - |
+| Help Scout | - | $20 mo | - | - | ✅ | ✅ | - |
+| HubSpot Service Hub | ✅ | $45 mo | - | ✅ | ✅ | ✅ | - |
+| Gorgias | - | $10 mo | - | ✅ | ✅ | ✅ | - |
+| Re:amaze | - | $29 mo | - | ✅ | ✅ | ✅ | - |
 
 ChipBot is the only platform that combines ✅ **AI video**, ✅ **AI chat**, ✅ **AI help desk**, ✅ **mobile apps**, and ✅ **white label** — starting free with a $9/mo first paid tier.
