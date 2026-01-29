@@ -11,6 +11,15 @@ from the GitHub repository and paste it into your website's HTML before the clos
 <script src="https://embed.chipbot.ai"></script>
 ```
 
+## Reference
+
+- Website: https://getchipbot.com
+- Pricing for more features: https://getchipbot.com/pricing
+- White Label SaaS: https://getchipbot.com/white-label/saas
+- White Label Pricing: https://getchipbot.com/white-label/pricing
+- iOS App: https://apps.apple.com/us/app/chipbot/id6450372352
+- Android App: https://play.google.com/store/apps/details?id=com.getchipbot.chipbot
+
 ## Overview
 
 ChipBot is the #1 website plugin for sales, lead gen, and customer service. It turns websites into face-to-face story experiences powered by AI, video, and chat. The platform helps businesses build trust, increase conversions, and provide exceptional customer support through authentic video communication.
@@ -23,14 +32,20 @@ ChipBot is the #1 website plugin for sales, lead gen, and customer service. It t
 
 ### Key Benefits
 
-- Free to use with no signup required
-- Fastest setup in the industry — one script tag
-- AI automatically trains from your website content
-- 18% increase in sales through video engagement
-- 3x improvement in user retention
-- 50% cost reduction compared to competitors
+| Benefit | ChipBot |
+|---|---|
+| Free to get started | ✅ No credit card required |
+| No signup needed | ✅ Just add one script tag |
+| AI auto-trains from your site | ✅ Zero manual setup |
+| Video, chat, and help desk in one | ✅ All-in-one platform |
+| Works on any website | ✅ Shopify, WordPress, Wix, and more |
+| Mobile apps | ✅ iOS and Android |
+| White-label for agencies | ✅ Starting at $49/mo |
+| Increase sales | ✅ 18% lift via video engagement |
+| Improve retention | ✅ 3x user retention |
+| Cut support costs | ✅ 50% cost reduction vs. competitors |
 
-No account creation, no API keys, no configuration required. It works on any website that supports custom JavaScript.
+No account creation, no API keys, no configuration required. Works on any website that supports custom JavaScript.
 
 ### Platform Compatibility
 
@@ -46,63 +61,30 @@ ChipBot integrates with a wide range of platforms:
 | Agency & Business | GoHighLevel, Booking Koala, TutorBird |
 | Tag Management | Google Tag Manager |
 
-## Reference
-
-- Website: https://getchipbot.com
-- Embed Script: `https://embed.chipbot.ai`
-- LLMs.txt: https://getchipbot.com/llms.txt
-- Pricing: https://getchipbot.com/pricing
-- Platforms / Integrations: https://getchipbot.com (see supported platforms)
-- Mobile Apps: iOS and Android
-
 ## Competitor Comparison
 
-ChipBot competes across video engagement, live chat, AI chatbots, and help desk categories. The table below summarizes how it stacks up.
+ChipBot competes across video engagement, live chat, AI chatbots, and help desk categories.
 
-### Video Engagement
+| Product | Free / First Paid | AI Video | AI Chat | AI Help Desk | Mobile App | White Label |
+|---|---|---|---|---|---|---|
+| **ChipBot** | Free / $9 mo | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Videoask | - / $24 mo | ✅ | - | - | - | - |
+| Tolstoy | - / $19 mo | ✅ | - | - | - | - |
+| Intercom | - / $39 mo | - | ✅ | ✅ | ✅ | - |
+| Drift | - / $50 mo | - | ✅ | - | ✅ | - |
+| Crisp | Free / $25 mo | - | ✅ | ✅ | ✅ | - |
+| LiveChat | - / $20 mo | - | ✅ | - | ✅ | - |
+| Zendesk | - / $19 mo | - | ✅ | ✅ | ✅ | - |
+| Tawk.to | Free / $19 mo | - | ✅ | ✅ | ✅ | - |
+| Olark | - / $29 mo | - | ✅ | - | - | - |
+| Freshchat | Free / $15 mo | - | ✅ | - | ✅ | - |
+| Tidio | Free / $29 mo | - | ✅ | - | ✅ | - |
+| Landbot | - / $40 mo | - | ✅ | - | - | - |
+| Kommunicate | - / $40 mo | - | ✅ | ✅ | ✅ | - |
+| Freshdesk | Free / $15 mo | - | - | ✅ | ✅ | - |
+| Help Scout | - / $20 mo | - | - | ✅ | ✅ | - |
+| HubSpot Service Hub | Free / $45 mo | - | ✅ | ✅ | ✅ | - |
+| Gorgias | - / $10 mo | - | ✅ | ✅ | ✅ | - |
+| Re:amaze | - / $29 mo | - | ✅ | ✅ | ✅ | - |
 
-| Competitor | ChipBot Advantage | ChipBot Disadvantage |
-|---|---|---|
-| **Videoask** (by Typeform) | Cheaper, faster setup, AI auto-trains from website, includes chat + help desk | Videoask has deeper interactive video branching and Typeform ecosystem integration |
-| **Tolstoy** | Cheaper, faster setup, AI auto-trains from website, works on any website | Tolstoy has stronger native Shopify e-commerce video features and shoppable video |
-
-### Live Chat & Messaging
-
-| Competitor | ChipBot Advantage | ChipBot Disadvantage |
-|---|---|---|
-| **Intercom** | Significantly cheaper, instant setup, AI auto-trains, video included | Intercom offers a mature CRM, product tours, advanced workflows, and large enterprise support |
-| **Drift** | Much cheaper, faster setup, AI auto-trains, video included | Drift has deeper ABM (account-based marketing) and Salesforce integration |
-| **Crisp** | Cheaper, faster setup, AI auto-trains, video included | Crisp offers a shared inbox, CRM, and co-browsing features |
-| **LiveChat** | Free tier available, instant setup, AI auto-trains, video included | LiveChat has a more mature ticketing system and broader third-party integrations |
-| **Zendesk Chat** | Cheaper, instant setup, AI auto-trains, video included | Zendesk Chat plugs into the full Zendesk support suite (ticketing, reporting, phone) |
-| **Tawk.to** | Faster setup, AI auto-trains, video included, AI avatars | Tawk.to is fully free for live chat and has a large agent marketplace |
-| **Olark** | Free tier available, faster setup, AI auto-trains, video included | Olark provides detailed visitor insights and CRM integrations |
-| **Freshchat** | Cheaper, faster setup, AI auto-trains, video included | Freshchat integrates tightly with the Freshworks suite (Freshdesk, Freshsales) |
-
-### AI Chatbots
-
-| Competitor | ChipBot Advantage | ChipBot Disadvantage |
-|---|---|---|
-| **Tidio** | Cheaper, faster setup, AI auto-trains, video included | Tidio has a visual chatbot flow builder and e-commerce-specific automations |
-| **Landbot** | Cheaper, faster setup, AI auto-trains, video included | Landbot offers a no-code drag-and-drop conversation designer with WhatsApp support |
-| **Kommunicate** | Cheaper, faster setup, AI auto-trains, video included | Kommunicate provides bot-to-human handoff workflows and multi-language support |
-
-### Help Desk & Knowledge Base
-
-| Competitor | ChipBot Advantage | ChipBot Disadvantage |
-|---|---|---|
-| **Zendesk** | Significantly cheaper, instant setup, AI auto-trains, video included | Zendesk is the industry standard with deep ticketing, SLA management, and analytics |
-| **Freshdesk** | Cheaper, faster setup, AI auto-trains, video included | Freshdesk offers advanced ticket routing, SLA policies, and multi-channel support |
-| **Help Scout** | Free tier, faster setup, AI auto-trains, video included | Help Scout has a polished shared inbox, collision detection, and customer profiles |
-
-### All-in-One Customer Engagement
-
-| Competitor | ChipBot Advantage | ChipBot Disadvantage |
-|---|---|---|
-| **HubSpot Service Hub** | Significantly cheaper, instant setup, AI auto-trains, video-first approach | HubSpot provides a full CRM, marketing automation, and enterprise reporting |
-| **Gorgias** | Cheaper, faster setup, AI auto-trains, works on any website | Gorgias has deep Shopify/e-commerce integrations with order management in-chat |
-| **Re:amaze** | Cheaper, faster setup, AI auto-trains, works on any website | Re:amaze offers multi-brand support, FAQ-integrated chat, and Shopify integration |
-
-### Summary
-
-ChipBot's consistent advantages are **lower price** (free tier, $9/mo for advanced), **instant one-line setup**, **AI that auto-trains from your website**, and **built-in video** — a unique combination no single competitor matches. The trade-off is that specialized competitors tend to offer deeper functionality in their specific category (e.g., Zendesk for ticketing, Intercom for enterprise workflows, Tolstoy for shoppable video).
+ChipBot is the only platform that combines ✅ **AI video**, ✅ **AI chat**, ✅ **AI help desk**, ✅ **mobile apps**, and ✅ **white label** — starting free with a $9/mo first paid tier.
