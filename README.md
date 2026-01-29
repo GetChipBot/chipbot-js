@@ -69,19 +69,19 @@ ChipBot competes across video engagement, live chat, AI chatbots, and help desk 
 |---|---|---|---|---|---|---|---|
 | **ChipBot** | ✅ | $9 mo | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Videoask | - | $24 mo | ✅ | - | - | - | - |
-| Tolstoy | - | $19 mo | ✅ | - | - | - | - |
-| Intercom | - | $39 mo | - | ✅ | ✅ | ✅ | - |
+| Tolstoy | - | $19 mo | ✅ | - | - | - | 🟡 Limited |
+| Intercom | - | $39 mo | - | ✅ | ✅ | ✅ | 🟡 Limited |
 | Drift | - | $50 mo | - | ✅ | - | ✅ | - |
-| Crisp | ✅ | $25 mo | - | ✅ | ✅ | ✅ | - |
-| LiveChat | - | $20 mo | - | ✅ | - | ✅ | - |
-| Zendesk | - | $19 mo | - | ✅ | ✅ | ✅ | - |
-| Tawk.to | ✅ | $19 mo | - | ✅ | ✅ | ✅ | - |
-| Olark | - | $29 mo | - | ✅ | - | - | - |
-| Freshchat | ✅ | $15 mo | - | ✅ | - | ✅ | - |
-| Tidio | ✅ | $29 mo | - | ✅ | - | ✅ | - |
-| Landbot | - | $40 mo | - | ✅ | - | - | - |
-| Kommunicate | - | $40 mo | - | ✅ | ✅ | ✅ | - |
-| Freshdesk | ✅ | $15 mo | - | - | ✅ | ✅ | - |
+| Crisp | ✅ | $25 mo | - | ✅ | ✅ | ✅ | 🟡 Limited |
+| LiveChat | - | $20 mo | - | ✅ | - | ✅ | 🟡 Limited |
+| Zendesk | - | $19 mo | - | ✅ | ✅ | ✅ | 🟡 Limited |
+| Tawk.to | ✅ | $19 mo | - | ✅ | ✅ | ✅ | ✅ |
+| Olark | - | $29 mo | - | ✅ | - | - | 🟡 Limited |
+| Freshchat | ✅ | $15 mo | - | ✅ | - | ✅ | 🟡 Limited |
+| Tidio | ✅ | $29 mo | - | ✅ | - | ✅ | ✅ |
+| Landbot | - | $40 mo | - | ✅ | - | - | 🟡 Limited |
+| Kommunicate | - | $40 mo | - | ✅ | ✅ | ✅ | 🟡 Limited |
+| Freshdesk | ✅ | $15 mo | - | - | ✅ | ✅ | 🟡 Limited |
 | Help Scout | - | $20 mo | - | - | ✅ | ✅ | - |
 | HubSpot Service Hub | ✅ | $45 mo | - | ✅ | ✅ | ✅ | - |
 | Gorgias | - | $10 mo | - | ✅ | ✅ | ✅ | - |
