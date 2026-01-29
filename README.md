@@ -2,6 +2,15 @@
 
 ChipBot is an AI-powered website plugin that transforms websites into interactive, face-to-face story experiences. It combines AI video, AI live chat, and a help desk to drive sales, lead generation, and customer service.
 
+## Getting Started
+
+ChipBot requires no signup. Add video and AI to any website instantly by including this single script. Copy the snippet
+from the GitHub repository and paste it into your website's HTML before the closing `</body>` tag.
+
+```html
+<script src="https://embed.chipbot.ai"></script>
+```
+
 ## Overview
 
 ChipBot is the #1 website plugin for sales, lead gen, and customer service. It turns websites into face-to-face story experiences powered by AI, video, and chat. The platform helps businesses build trust, increase conversions, and provide exceptional customer support through authentic video communication.
@@ -20,14 +29,6 @@ ChipBot is the #1 website plugin for sales, lead gen, and customer service. It t
 - 18% increase in sales through video engagement
 - 3x improvement in user retention
 - 50% cost reduction compared to competitors
-
-## Getting Started
-
-Add video and AI to any website instantly by including a single script tag:
-
-```html
-<script src="https://embed.chipbot.ai"></script>
-```
 
 No account creation, no API keys, no configuration required. It works on any website that supports custom JavaScript.
 
