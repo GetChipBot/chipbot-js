@@ -1,10 +1,10 @@
-# ChipBot
+# ChipBot – Video, AI Live Chat, & AI Help Desk
 
-ChipBot is an AI-powered website plugin that transforms websites into interactive, face-to-face story experiences. It combines AI video, AI live chat, and a help desk to drive sales, lead generation, and customer service.
+[ChipBot](https://getchipbot.com) is an AI-powered website plugin that transforms websites into interactive, face-to-face story experiences. It combines AI video, AI live chat, and a help desk to drive sales, lead generation, and customer service.
 
 ## Getting Started
 
-ChipBot requires no signup. Add video and AI to any website instantly by including this single script. Copy the snippet
+[ChipBot](https://getchipbot.com) requires no signup. Add video and AI to any website instantly by including this single script. Copy the snippet
 from the GitHub repository and paste it into your website's HTML before the closing `</body>` tag.
 
 ```html
